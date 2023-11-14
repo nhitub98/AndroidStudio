@@ -3,19 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/drawable/ic_baseline_add_location_24.xml" value="0.2095" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.2095" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/drawable/ic_baseline_drag_handle_24.xml" value="0.2095" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/drawable/ic_menu_24.xml" value="0.129" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/drawable/spinner.xml" value="0.1" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_chi_tiet.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_chi_tiet.xml" value="0.13654618473895583" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_dang_ki.xml" value="0.2" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_dang_nhap.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_dang_nhap.xml" value="0.264" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_dien_thoai.xml" value="0.1897644927536232" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_gio_hang.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_gio_hang.xml" value="0.264" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_laptop.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_reset_pass.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_reset_pass.xml" value="0.2" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/activity_thanh_toan.xml" value="0.2426470588235294" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/item_dienthoai.xml" value="0.264" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/item_giohang.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/item_giohang.xml" value="0.264" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/item_loading.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/item_sanpham.xml" value="0.2" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AppbanhangLuongThuHien/app/src/main/res/layout/item_sp_moi.xml" value="0.25416666666666665" />

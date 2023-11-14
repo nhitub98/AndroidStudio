@@ -8,7 +8,7 @@
     <TextView
         android:id="@+id/txtdangnhap"
         app:layout_constraintTop_toTopOf="parent"
-        android:text="Dang ki"
+        android:text="Đăng kí"
         android:textSize="25sp"
         android:textColor="@color/colortext"
         android:gravity="center"

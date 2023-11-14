@@ -25,7 +25,7 @@
     android:textSize="18sp"
     android:textStyle="bold"
     android:id="@+id/item_giohang_tensp"
-    android:text="Ten san pham"
+    android:text="Tên sản phẩm"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"/>
         <LinearLayout

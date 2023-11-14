@@ -28,7 +28,7 @@
             android:gravity="center"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:text="Ten san pham"
+            android:text="Tên sản phầm"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
         <TextView
@@ -49,7 +49,7 @@
         <TextView
             android:id="@+id/itemdt_mota"
             android:textSize="14sp"
-            android:text="Mo ta"
+            android:text="Mô tả"
             android:textColor="@android:color/darker_gray"
             android:textStyle="bold"
             android:layout_width="match_parent"

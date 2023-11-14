@@ -14,19 +14,19 @@ import retrofit2.http.POST;
 
 public interface ApiBanHang {
     //GET DATA
-    @GET("getloaisp.php")
+    @GET("getcategoryproduct.php")
     Observable<LoaiSpModel> getLoaiSp();
-    @GET("getspmoi.php")
+    @GET("getnewproduct.php")
     Observable<SanPhamMoiModel> getSpMoi();
     //POST DATA
-    @POST("chitiet.php")
+    @POST("details.php")
     @FormUrlEncoded
     Observable<SanPhamMoiModel> getSanPham(
     @Field("page") int page,
     @Field("loai") int loai
     );
 
-    @POST("dangki.php")
+    @POST("register.php")
     @FormUrlEncoded
     Observable<UserModel> dangKi(
             @Field("email") String email,
@@ -34,7 +34,7 @@ public interface ApiBanHang {
             @Field("pass") String pass,
             @Field("mobile") String mobile
     );
-    @POST("dangnhap.php")
+    @POST("login.php")
     @FormUrlEncoded
     Observable<UserModel> dangNhap(
             @Field("email") String email,

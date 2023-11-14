@@ -24,7 +24,7 @@
                 android:layout_height="150dp"/>
             <TextView
                 android:id="@+id/itemsp_ten"
-                android:text="Laptop"
+                android:text="Máy tính"
                 android:textSize="20sp"
                 android:textStyle="bold"
                 android:gravity="center"

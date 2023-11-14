@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">AppbanhangLuongThuHien</string>
     <string name="gi_2500000">Giá 2500000đ</string>
-    <string name="th_v_g_h">Them vao gio hang</string>
-    <string name="ng_nh_p"> Dang nhap </string>
+    <string name="th_v_g_h">Thêm vào giỏ hàng</string>
+    <string name="ng_nh_p">Đăng nhập</string>
 
 </resources>

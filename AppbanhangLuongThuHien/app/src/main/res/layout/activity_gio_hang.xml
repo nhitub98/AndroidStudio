@@ -42,7 +42,7 @@
             android:layout_weight="1"
             android:padding="5dp"
             android:layout_marginLeft="10dp"
-            android:text="Tong tien"
+            android:text="Tổng tiền"
             android:textSize="18sp"
             android:textColor="@android:color/holo_red_light"
             android:textStyle="bold"
@@ -66,7 +66,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:id="@+id/btnmuahang"
-        android:text="Mua hang"
+        android:text="Mua hàng"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
